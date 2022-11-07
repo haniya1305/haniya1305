@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haniya -
-- 👀 I’m interested in Software Development and Databases
+- 👀 I’m interested in Software Development and Analysis
 - 🌱 I’m currently pursuing a Bachelors of Science degree at the University of British Columbia, majoring in Computer Science with a minor in Mathematics
 - 📫 You can reach me at haniya13@student.ubc.ca
 
